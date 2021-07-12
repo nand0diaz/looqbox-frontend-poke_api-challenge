@@ -1,4 +1,4 @@
-## Starting the project
+## Starting the project 
 - The project only needs to be installed YARN
 
 - SPA project containing the components:
